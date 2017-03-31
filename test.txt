@@ -1,2 +1,0 @@
-first test file
-second line of this file
